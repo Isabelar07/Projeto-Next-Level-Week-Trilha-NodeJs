@@ -67,6 +67,7 @@ $ cd Projeto-Next-Level-Week-Trilha-NodeJs
 
 #Instalar as dependências
 $ yarn install
+```
 
 ---
 
