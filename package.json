@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.2",
+    "ts-node-dev": "^1.1.2",
+    "typeorm": "^0.2.31"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
