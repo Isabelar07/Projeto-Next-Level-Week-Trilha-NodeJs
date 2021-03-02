@@ -2,10 +2,14 @@
 
 ## 📑️ Índice
 
-- [Next Level Week](#ℹ️--O-que-é-a-Next-Level-Week)
-- [O projeto](#📝️-Sobre)
-- [Tecnologias utilizadas](#🚀️-Tecnologias-utilizadas)
-- [Como usar](#💾️-Como-baixar/testar-o-projeto)
+- [Índice](#️-índice)
+- [O que é a Next Level Week](#ℹ️-o-que-é-a-next-level-week)
+  - [Dias](#dias)
+- [Sobre](#️-sobre)
+- [Tecnologias utilizadas](#️-tecnologias-utilizadas)
+- [Como baixar/testar o projeto](#️-como-baixartestar-o-projeto)
+
+=======
 
 ---
 
@@ -19,6 +23,10 @@ Dia 2: Banco de Dados 23/02 - ✔️ <br/>
 Dia 3: Testando nossa aplicação 24/02 - ✔️ <br/>
 Dia 4: Envio de e-mail 25/02 - ✔️ <br/>
 Dia 5: Finalizando nossa api com validações 26/02 - ✔️
+
+---
+
+<img src="./assets/email.png">
 
 ---
 
@@ -82,4 +90,3 @@ $ yarn install
 <a href="https://www.linkedin.com/in/isabelarochasilveira/">
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width= 70px height= 25px>
 </a>
-
