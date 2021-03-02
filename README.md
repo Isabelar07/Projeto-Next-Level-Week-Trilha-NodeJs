@@ -2,13 +2,14 @@
 
 ## 📑️ Índice
 
-- [📑️ Índice](#️-índice)
-- [ℹ️ O que é a Next Level Week](#ℹ️-o-que-é-a-next-level-week)
+- [Índice](#️-índice)
+- [O que é a Next Level Week](#ℹ️-o-que-é-a-next-level-week)
   - [Dias](#dias)
-- [📝️ Sobre](#️-sobre)
-- [🚀️ Tecnologias utilizadas](#️-tecnologias-utilizadas)
-- [💾️ Como baixar/testar o projeto](#️-como-baixartestar-o-projeto)
-    - [Desenvolvido 🧡 por:](#desenvolvido--por)
+- [Sobre](#️-sobre)
+- [Tecnologias utilizadas](#️-tecnologias-utilizadas)
+- [Como baixar/testar o projeto](#️-como-baixartestar-o-projeto)
+
+=======
 
 ---
 
@@ -32,6 +33,10 @@ Dia 5: Finalizando nossa api com validações 26/02 - ✔️
 ## 📝️ Sobre
 
 O projeto se trata de uma api responsável por enviar ao usuário uma pesquisa (PNS) por e-mail, foi proposto na **Next Level Week #4 - Trilha de Node.js** da Rocketseat.
+
+---
+
+<img src="https://fluvid.com/videos/detail/ZOyZMFDwO8u9PEGYZ">
 
 ---
 
