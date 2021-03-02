@@ -74,7 +74,6 @@ $ yarn install
 #### Desenvolvido 🧡 por:
 
 ***Isabela Rocha*** 
-
 <br/> 
 <a href="https://www.linkedin.com/in/isabelarochasilveira/">
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width= 70px height= 25px>
