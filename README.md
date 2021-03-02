@@ -28,6 +28,10 @@ O projeto se trata de uma api responsável por enviar ao usuário uma pesquisa (
 
 ---
 
+<img src="https://fluvid.com/videos/detail/ZOyZMFDwO8u9PEGYZ">
+
+---
+
 ## 🚀️ Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
