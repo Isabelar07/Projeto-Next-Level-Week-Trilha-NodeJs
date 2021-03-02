@@ -76,6 +76,6 @@ $ yarn install
 ***Isabela Rocha*** 
 <br/> 
 <a href="https://www.linkedin.com/in/isabelarochasilveira/">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width= 150px height= 40px>
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width= 100px height= 25px>
 </a>
 
